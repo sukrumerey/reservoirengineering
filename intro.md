@@ -1,6 +1,6 @@
 # Welcome to Reservoir Engineering Course Page
 
-Welcome to the Reservoir Engineering course website. 
+Welcome to Reservoir Engineering course website. 
 
 I hope this website serves as a valuable learning resource for students, researchers, and petroleum engineering professionals.
 
